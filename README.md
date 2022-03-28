@@ -3,13 +3,13 @@
 #### By **{Joan Chepkwony}**
 ## Description
 {
-Part 1:  Using R programming to identify which individuals are the most likely to click on the ads.
+Part 1:  Using R programming to identify which individuals are the most likely to click on the ads. ( Supervised Learning)
 
 Part 1 R pubs Link: https://rpubs.com/Joan_Chep/883013
 
-Part 2:  understanding and identifying the customer behaviour on an e-commmerce website for the Kira Plastinina brand.
+Part 2:  understanding and identifying the customer behaviour on an e-commmerce website for the Kira Plastinina brand. ( Unsupervised Learning)
 
-Part 2 R pubs Link: 
+Part 2 R pubs Link: https://rpubs.com/Joan_Chep/883067
 
 }
 ## Setup/Installation Requirements
