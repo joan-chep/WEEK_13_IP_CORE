@@ -1,4 +1,6 @@
-# WEEK_13_IP_CORE
+# Using R programming to identify which individuals are the most likely to click on the ads (Supervised Learning)
+
+# Understanding and identifying the customer behaviour on an e-commmerce website for the Kira Plastinina brand (Unsupervised Learning)
 
 #### By **{Joan Chepkwony}**
 ## Description
